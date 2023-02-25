@@ -1,4 +1,4 @@
-- ### Hi there 👋 I am Anchla Rajput!
+- ### Hi there 👋 I am Anchla Rajput !
 - ⚡ Full Stack Developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React js
