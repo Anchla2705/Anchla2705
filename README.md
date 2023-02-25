@@ -1,5 +1,5 @@
 - 👋 Hi there I’m Anchla Rajput
-- ⚡ Full Stack Develop
+- ⚡ Full Stack Developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Dev Projects
