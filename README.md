@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Dev Projects
-- 📫 How to reach me :- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anchla-rajput-11b1901b0/)](https://www.linkedin.com/in/anchla-rajput-11b1901b0/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anchlarajput2705@gmail.com)](mailto:anchlarajput2705@gmail.com)
+- 📫 How to reach me... [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anchla-rajput-11b1901b0/)](https://www.linkedin.com/in/anchla-rajput-11b1901b0/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anchlarajput2705@gmail.com)](mailto:anchlarajput2705@gmail.com)
  
 
 <!---
